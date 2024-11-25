@@ -120,7 +120,7 @@ export NVM_DIR="$HOME/.nvm"
 
 alias bashrc='nvim ~/.bashrc'
 alias zshrc='nvim ~/.zshrc'
-alias init='nvim ~/.config/nvim/init.vim'
+alias nvimrc='nvim ~/.config/nvim/init.vim'
 alias atualiza='sudo apt-get update && sudo apt-get upgrade'
 
 alias upbash='docker-compose run --rm web bash'
